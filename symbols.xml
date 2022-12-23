@@ -117,7 +117,7 @@
                              `'''
                   W I N D O W S
     <symbol-table name='v0.50.03-steam SDL win64' os-type='windows'>
-        <binary-timestamp value='0x639777b1'/>
+        <binary-timestamp value='0x63a2a9ad'/>
         <global-address name='created_item_subtype' value='0x142079cf0'/>
         <global-address name='adventure' value='0x142070240'/>
         <global-address name='ui_building_assign_items' value='0x142070228'/>
