@@ -116,7 +116,7 @@
                          ;rr;:,..,:.
                              `'''
                   W I N D O W S
-    <symbol-table name='v0.50.03-steam SDL win64' os-type='windows'>
+    <symbol-table name='v0.50.04-steam SDL win64' os-type='windows'>
         <binary-timestamp value='0x63a2a9ad'/>
         <global-address name='created_item_subtype' value='0x142079cf0'/>
         <global-address name='adventure' value='0x142070240'/>
