@@ -313,7 +313,7 @@ sub render_struct_type {
         if ($field_backrefs{$typename}) {
             for my $backref (@{$field_backrefs{$typename}}) {
                 register_ref $backref;
-                emit "friend struct ${main_namespace}::${backref};";
+                emit 'friend struct ' . fully_qualified_name($types{$backref}, $backref) . ';';
             }
         }
     } $tag, "$typename$ispec", -export => 1;
